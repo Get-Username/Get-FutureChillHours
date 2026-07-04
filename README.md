@@ -26,4 +26,4 @@ LIMITATIONS:
 
 2. xlsx functions can be fully automated
 
-3. pwsh cmdlet can be chained and automated into one command
+3. Get-FutureChillHours is the cmdlet in development that chains together the end to end process, including data vis generation. 
