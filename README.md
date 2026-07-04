@@ -1,5 +1,3 @@
-Here are my automations: https://github.com/Get-Username/Get-UtahChillHours
-
 The pwsh scripts are to: 
 
 1. break the 30 year export into a separate chill hour season chunk files.  e.g. 15 Oct 1997 - 1 March 1998, 15 Oct 1998 - 1 March 1999, etc. and 
