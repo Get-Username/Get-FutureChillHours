@@ -1,8 +1,8 @@
-The pwsh scripts are to: 
+The pwsh cmdlets are to: 
 
-1. break the 30 year export into a separate chill hour season chunk files.  e.g. 15 Oct 1997 - 1 March 1998, 15 Oct 1998 - 1 March 1999, etc. and 
+1. Format-MRCCData breaks the 30 year export into a separate chill hour season chunk files.  e.g. 15 Oct 1997 - 1 March 1998, 15 Oct 1998 - 1 March 1999, etc. and 
 
-2. Calculate the observed chill hours for each chunk-file using the Richardson Chill Hours Model aka the the Utah Model
+2. Get-UtahChillHours calculates the observed chill hours for each chunk-file using the Richardson Chill Hours Model aka the the Utah Model
 
 
 
