@@ -63,7 +63,3 @@ function Format-MRCCData {
 
 	Write-Output "Bleep bloop, automation complete."
 } # End function Format-MRCCData
-
-$inFile = './data/source-data/MRCC-RIC-30.csv'
-$outPath = '/home/ccowboy/Documents/Local-Projects/Get-ChillHours/data/transformed-data'
-Format-MRCCData -inFile $inFile -outPath $outPath
