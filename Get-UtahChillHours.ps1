@@ -77,7 +77,3 @@ function Get-UtahChillHours {
 		}
 	}
 } # End function Get-UtahChillHours
-
-$csvDir = "./data/transformed-data"
-$outFile = '~/Documents/Local-Projects/Get-ChillHours/data/output-data/RIC-30-Report.csv'
-Get-UtahChillHours -csvDir $csvDir -outFile $outFile
